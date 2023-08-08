@@ -288,4 +288,5 @@ Researchers and developers are free to use the codes and model weights of both Q
 ## Contact Us
 
 If you are interested to leave a message to either our research team or product team, feel free to send an email to qianwen_opensource@alibabacloud.com.
+84404905@qq.com
 
